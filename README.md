@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gsreejith123
+- 👋 Hi, I’m @gsreejith
 - 👀 I’m interested in Data Science,Machine Learning,Deep Learning,NLP,Computer Vision
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on exciting open source projects
-- 📫 How to reach me linked In : https://www.linkedin.com/in/sreejith-g-a06972130/
+- 📫 How to reach me linked In : https://www.linkedin.com/in/g-sree-jith/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
