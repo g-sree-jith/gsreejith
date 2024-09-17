@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on exciting open source projects  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/g-sree-jith/)  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love exploring satellite imagery and applying AI to environmental data!
+⚡ Fun fact: I love exploring the unknowns on data.
 
 
 <!---
